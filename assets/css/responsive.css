@@ -22,7 +22,7 @@
   }
 }
 @media (max-width: 960px) {
-  #mNav {
+  #mNav button {
     display: block;
   }
 
