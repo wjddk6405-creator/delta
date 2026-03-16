@@ -344,7 +344,7 @@
   margin: 0 auto;
   margin-top: 30px;
 }
-.footer_menu ul {
+.footer_menu > ul {
   width: 25%;
 }
 .footer_menu ul li {
